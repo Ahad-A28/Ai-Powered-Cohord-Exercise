@@ -1,4 +1,13 @@
 // Note App
+// ## ✅ How It Works
+// | Method | Route            | Purpose                  |
+// |--------|------------------|--------------------------|
+// | GET    | `/`              | Welcome message          |
+// | POST   | `/notes`         | Add a new note           |
+// | GET    | `/notes`         | List all notes           |
+// | DELETE | `/notes/:index`  | Delete a note by index   |
+// | PATCH  | `/notes/:index`  | Update title of a note   |
+
 const express = require("express");
 const app = express();
 
