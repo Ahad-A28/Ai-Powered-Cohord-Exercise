@@ -19,7 +19,6 @@ Here's how my workspace is organized (updated regularly as I progress 🚀):
 
 ---
 
-### ⚙️ **Backend** *(Coming Soon!)*  
 The backend folder will be added soon as I dive into server-side programming. Stay tuned! 🔧
 
 ---
@@ -27,7 +26,6 @@ The backend folder will be added soon as I dive into server-side programming. St
 *This structure will evolve as I continue learning and adding new content.* 😊
 
 ---
-
 ## 🌟 What to Expect
 
 - **Daily Updates**: I document my progress every day to stay consistent and motivated. 🗓️
