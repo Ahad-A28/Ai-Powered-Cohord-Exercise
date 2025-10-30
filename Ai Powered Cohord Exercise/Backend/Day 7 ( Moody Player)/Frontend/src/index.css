@@ -1,0 +1,24 @@
+@import "tailwindcss";
+ @media (max-width:600px) {
+    .video{
+        max-width: 100%;
+ 
+    }
+    .canvas{
+       max-width: 100%;
+ 
+    }
+    .detect-mood-btn {
+        font-size: 0.9rem;
+        
+    }
+    br{
+        display: block;
+    }
+    .Mood{
+        text-align: center;
+        font-size: 1.7rem;
+         
+
+    }
+ }
